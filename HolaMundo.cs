@@ -6,6 +6,6 @@ namespace CSharp
 {
     static class HolaMundo
     {
-        public static string Hola_Mundo = "Hola Mundo Desde Una Clase Nueva ASDASDASD";
+        public static string Hola_Mundo = "Hola Mundo Desde Una Clase Nueva ASDMASD ASD ASDASD";
     }
 }
