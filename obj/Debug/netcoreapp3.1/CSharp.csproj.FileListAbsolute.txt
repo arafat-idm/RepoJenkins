@@ -1,0 +1,14 @@
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\dimakers1\Documents\GitHub\RepoJenkins\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache

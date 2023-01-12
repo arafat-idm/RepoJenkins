@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimakers1\\source\\repos\\CSharp\\CSharp.csproj": {}
+    "C:\\Users\\dimakers1\\Documents\\GitHub\\RepoJenkins\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimakers1\\source\\repos\\CSharp\\CSharp.csproj": {
+    "C:\\Users\\dimakers1\\Documents\\GitHub\\RepoJenkins\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimakers1\\source\\repos\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\dimakers1\\Documents\\GitHub\\RepoJenkins\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\dimakers1\\source\\repos\\CSharp\\CSharp.csproj",
+        "projectPath": "C:\\Users\\dimakers1\\Documents\\GitHub\\RepoJenkins\\CSharp.csproj",
         "packagesPath": "C:\\Users\\dimakers1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimakers1\\source\\repos\\CSharp\\obj\\",
+        "outputPath": "C:\\Users\\dimakers1\\Documents\\GitHub\\RepoJenkins\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimakers1\\AppData\\Roaming\\NuGet\\NuGet.Config",
